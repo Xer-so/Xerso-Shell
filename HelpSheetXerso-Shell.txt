@@ -1,0 +1,30 @@
+Help Sheet.
+
+Commands:
+
+ping
+local
+date
+ls
+lsdir
+echo
+tasklist
+cmd
+info
+explorer
+pwd
+cd
+cdback
+mkdir
+help - This command is being devolped!!!
+web
+fail
+tree 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Any Problemms? Please dont hesitate to conatct me on discord @Xerso#9450
+
+For any collabarations please contact me on discord.
+
+Thank You 
+---Xerso---
